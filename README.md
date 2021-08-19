@@ -60,9 +60,10 @@
 
 # Stats
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ActuallySam&layout=compact&theme=merko)](https://github.com/ActualySam/github-readme-stats)
+<p> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ActuallySam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" /> </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ActuallySam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ActuallySam&langs_count=8&layout=compact)](https://github.com/ActuallySam/github-readme-stats)
+
 
 
 <!--
