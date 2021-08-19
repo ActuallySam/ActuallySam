@@ -18,18 +18,45 @@
 [![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
 
  -->
+ 
+<!--  **Learning:**
+
+<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
+<a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
+<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
+<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
+
+**Previously worked with:**
+
+<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
+<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="Visual Basic"><img src="icons/vbnet.png" /></a>
+<a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+<a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
+<a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
+<a href="https://www.vagrantup.com/" title="Vagrant"><img src="icons/vagrant.png" /></a>
+
+**Currently focused on building:**
+
+- [axl-template](https://github.com/axelerant/axl-template)
+- [db-docker](https://github.com/axelerant/db-docker)
+- [drupalqa](https://github.com/hussainweb/drupalqa) -->
 
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="icons/tailwind.png" alt="tailwind" width="60" height="40"/> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img src="icons/nextjs.png" alt="nextjs" width="55" height="55"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
+    <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" alt="typescript" width="40" height="40" /></a>
+    <a href="https://laravel.com/" target="_blank"> <img src="icons/laravel.png" alt="laravel" width="46" height="40"/> </a>
+    <a href="https://www.php.net/" target="_blank"> <img src="icons/php.png" alt="php" width="55" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank" style="background-color:#ffffff"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="icons/express.png" alt="express" width="40" height="40" style="background-color:#ffffff"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
