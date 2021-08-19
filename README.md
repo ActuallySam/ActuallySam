@@ -2,11 +2,6 @@
 
 <!-- # Visitors ![visitors](https://visitor-badge.glitch.me/badge?page_id=${ActuallySam}.${63175337}) -->
 
-# Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ActuallySam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
-
-
 <!-- **Social Media:**
 
 [![Drupal](icons/drupal.png)](https://www.drupal.org/u/hussainweb)
@@ -63,9 +58,11 @@
     </p>
 
 
+# Stats
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ActuallySam&layout=compact&theme=merko)](https://github.com/ActualySam/github-readme-stats)
 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ActuallySam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 
 
 <!--
