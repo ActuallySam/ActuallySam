@@ -69,16 +69,16 @@
    <img src="https://img.shields.io/github/license/ActuallySam/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator license" />
  </a>
  <a href="https://github.com/ActuallySam/github-profile-readme-generator/fork" target="blank">
-   <img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
+   <img src="https://img.shields.io/github/forks/ActuallySam/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
  </a>
  <a href="https://github.com/ActuallySam/github-profile-readme-generator/stargazers" target="blank">
-   <img src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
+   <img src="https://img.shields.io/github/stars/ActuallySam/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
  </a>
  <a href="https://github.com/ActuallySam/github-profile-readme-generator/issues" target="blank">
-   <img src="https://img.shields.io/github/issues/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
+   <img src="https://img.shields.io/github/issues/ActuallySam/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
  </a>
  <a href="https://github.com/ActuallySam/github-profile-readme-generator/pulls" target="blank">
-   <img src="https://img.shields.io/github/issues-pr/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+   <img src="https://img.shields.io/github/issues-pr/ActuallySam/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
  </a>
 </p>
 
