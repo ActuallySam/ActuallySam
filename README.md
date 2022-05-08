@@ -2,7 +2,7 @@
 
 # Visitors ![visitors](https://visitor-badge.glitch.me/badge?page_id=${ActuallySam}.${63175337})
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
