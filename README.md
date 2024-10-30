@@ -8,9 +8,12 @@ I enjoy building software that makes a difference, whether it's solving a real-w
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=frozrt&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frozrt&layout=compact&theme=gotham&custom_title=Statistics)  
-![ViewCount](https://komarev.com/ghpvc/?username=frozrt&color=1A4730)
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ActuallySam&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ActuallySam&layout=compact&theme=gotham&custom_title=Statistics)  
+![ViewCount](https://komarev.com/ghpvc/?username=ActuallySam&color=1A4730)
+
 #### Languages and tools:
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![aws](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -25,11 +28,6 @@ I enjoy building software that makes a difference, whether it's solving a real-w
 ![asyncio](https://img.shields.io/badge/asyncio-%2300BAFF.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![nginx](https://img.shields.io/badge/-NGINX-10341E?&style=for-the-badge&logo=nginx&logoColor=white)
-
----
-
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ActuallySam&show_icons=true&theme=radical)
 
 ---
 
