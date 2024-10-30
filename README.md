@@ -33,3 +33,4 @@ I enjoy building software that makes a difference, whether it's solving a real-w
 
 ## Let's Connect?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth2378/)
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white)](srivastavasamarth.work@gmail.com)
