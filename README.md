@@ -16,6 +16,8 @@ I enjoy building software that makes a difference, whether it's solving a real-w
 
 #### Languages and tools:
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript%20-%FF988a.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![reactJS](https://img.shields.io/badge/react%20-%23674CC.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![aws](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
